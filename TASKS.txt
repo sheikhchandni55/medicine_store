@@ -1,18 +1,27 @@
 
-Student ID: 23-51027-1
+Student ID: 23-51026-1
 
 Assigned Tasks:
-1. User Authentication (Admin/Customer)
-2. Profile Management
-3. Home Page
-4. Medicine Browsing by Categories
-5. Search & Filtering (AJAX)
+Task 2:
+- Admin Dashboard
+- Category Management
+- Medicine CRUD
+- Delete Customers
+- View Purchase Requests
+- Accept/Reject Orders
+- Purchase History
+
+Task 3:
+- Add to Cart
+- Cart Management
+- Checkout
+- Invoice
+- Payment Method Selection
+- Order Confirmation
 
 Main Features:
-- Registration & Login
-- Remember Me functionality
-- Session Management
-- Profile Update & Password Change
-- Dynamic Navbar
-- Medicine Search using AJAX
-- Category Browsing
+- Admin CRUD Operations
+- AJAX Order Status Update
+- Shopping Cart System
+- Checkout & Payment
+- Customer Order Management
