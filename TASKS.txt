@@ -1,0 +1,18 @@
+
+Student ID: 23-51027-1
+
+Assigned Tasks:
+1. User Authentication (Admin/Customer)
+2. Profile Management
+3. Home Page
+4. Medicine Browsing by Categories
+5. Search & Filtering (AJAX)
+
+Main Features:
+- Registration & Login
+- Remember Me functionality
+- Session Management
+- Profile Update & Password Change
+- Dynamic Navbar
+- Medicine Search using AJAX
+- Category Browsing
